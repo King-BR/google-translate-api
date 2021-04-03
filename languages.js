@@ -81,6 +81,7 @@ var langs = {
     'fa': 'Persian',
     'pl': 'Polish',
     'pt': 'Portuguese',
+    'pt-br': 'Portuguese (Brazillian)',
     'ma': 'Punjabi',
     'ro': 'Romanian',
     'ru': 'Russian',
